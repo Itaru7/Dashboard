@@ -1,0 +1,26 @@
+{
+  "API_URL": "https://randomuser.me/api/",
+  "config_stores": {
+    "AAA": "Store A",
+    "BBB": "Store B",
+    "CCC": "Store C",
+    "DDD": "Store D",
+    "EEE": "Store E",
+    "FFF": "Store F",
+    "GGG": "Store G",
+    "HHH": "Store H",
+    "III": "Store I",
+    "JJJ": "Store J",
+    "KKK": "Store K",
+    "LLL": "Store L",
+    "MMM": "Store M",
+    "NNN": "Store N",
+    "OOO": "Store O",
+    "PPP": "Store P",
+    "QQQ": "Store Q",
+    "RRR": "Store R",
+    "SSS": "Store S",
+    "TTT": "Store T",
+    "ALL": "All Stores -Summary-"
+  }
+}

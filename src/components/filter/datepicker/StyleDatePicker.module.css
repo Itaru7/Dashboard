@@ -1,0 +1,22 @@
+
+.datepick{
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.dateLabel{
+    width: 120px;
+    color: white;
+}
+
+.pickerBox{
+    display: flex;
+    vertical-align: middle;
+    padding-left: 5px;
+    width: 180px;
+}
+
+.dateInput{
+    display: inline;
+    width: 100px;
+}

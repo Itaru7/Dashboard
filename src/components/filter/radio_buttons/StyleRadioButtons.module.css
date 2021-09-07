@@ -1,0 +1,20 @@
+
+.kintoneCustomizeHeaderOption {
+	width: 460px;
+	float: left;
+	/*color: #95989a;*/
+	border-radius: 10px;
+	background-color: white;
+}
+
+.mainli{
+	float: left;
+    line-height: 1.5;
+    padding: 10px 0px 10px 10px;
+}
+
+.mainul{
+	list-style-type: none;
+	margin-top: 0;
+	padding-left: 10px;
+}

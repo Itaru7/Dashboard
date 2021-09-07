@@ -1,0 +1,18 @@
+
+.storeDropdown{
+    font-family: sans-serif;
+    font-size: small;
+    width: 360px;
+    display: flex;
+}
+
+.storeLabel{
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.dropdown{
+    height: 25px;
+    width: 66%;
+}

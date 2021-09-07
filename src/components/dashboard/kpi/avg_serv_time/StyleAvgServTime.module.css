@@ -1,0 +1,18 @@
+
+.table{
+    width: 11%;
+    display: inline-block;
+    margin-left: 2%
+}
+
+.tBody{
+    font-size: xxx-large;
+    text-align: center
+}
+
+.tHead{
+    font-size: larger;
+    background-color: #fcfcfc;
+    padding: 5px 20px;
+    height: 55px
+}

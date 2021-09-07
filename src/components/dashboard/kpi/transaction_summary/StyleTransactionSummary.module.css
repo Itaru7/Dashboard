@@ -1,0 +1,13 @@
+
+.bold{
+    font-weight: bold;
+}
+
+.category{
+    padding: 5px 20px;
+    background: #fcfcfc;
+}
+
+.detail{
+    padding: 5px 20px;
+}
